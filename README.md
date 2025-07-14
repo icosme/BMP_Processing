@@ -1,6 +1,6 @@
 ## BMP Image Encoding Study 🖼️✨
 
-This project explores BMP image encoding, decoding, and manipulation — from analyzing headers to pixel-level edits and steganography.
+This project explores BMP image encoding, decoding, and manipulation, from analyzing headers to pixel-level edits and steganography.
 
 What you’ll find here:
 
